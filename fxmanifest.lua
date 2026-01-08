@@ -35,8 +35,9 @@ files {
     'config/shared.lua',
 
     -- NUI
-    'web/assets/css/*.css',
+    'web/assets/styles/*.css',
     'web/assets/scripts/*.js',
+    -- 'web/assets/images/*',
     'web/index.html',
 }
 
